@@ -2,4 +2,4 @@ numpy==1.16.*
 matplotlib==3.*
 ipywidgets== 4.*
 scipy==1.3.*
-operator==3.7
+cpython==3.7
